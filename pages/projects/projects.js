@@ -4,7 +4,8 @@ import { projects } from "../../data/projects";
 import { projectCard } from "../../components/projectcard/projectcard.js";
 import { divider } from "../../components/divider/divider.js";
 
-export const projects = () => {
+export const renderProjects = () => {
+  
   const main = document.querySelector("main");
   cleanPage(main);
   main.innerHTML = `
@@ -13,10 +14,12 @@ export const projects = () => {
     ${divider()}
     <div class="projects-container"></div>
     </section>`;
-  const container = document.querySelector(".projects-container");
-  for (const project of projects) {
+  
+    const container = document.querySelector(".projects-container");
+  
+  for (const oneProject of projects) {
     const figure = document.createElement("figure");
-    figure.innerHTML = projectCard(project);
+    figure.innerHTML = projectCard(oneProject);
     container.appendChild(figure);
   }
 };

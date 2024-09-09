@@ -19,7 +19,7 @@ export const changeText = () => {
 
 export const navbar = () => `
 <nav>
-<h2>Peter Parker</h2>
+<h2>Oihane García de Cáceres López</h2>
 <ul>
     <li>
         <a href="#" id="homelink">Home</a>

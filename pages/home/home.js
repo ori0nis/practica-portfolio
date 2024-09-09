@@ -7,8 +7,12 @@ export const home = () => {
   main.innerHTML = `
     <section class="home">
     <p>Hey, I'm</p>
-    <h1>Peter Parker</h1>
-    <p>I'm a software engineer based in Toronto, Canada and also a communication and journalism student. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I have been freelancing for a year now while studying at the university and I've manage to gain a decent amount of experience and valuable knowledge from all different kinds of fields throughout my projects/work.</p>
-    <a href="mailto:peterparker@gmail.com">Say hi →</a>
+    <h1>Oihane</h1>
+    <p> From Valencia, Spain. Full Stack Development student at thePower (I'm on my way to getting an Azure certification, stick around for that exciting milestone!) and Journalist by the University of Valencia. I also happen to be quite talented at getting the zoomies, which is why I am an aspiring professional triathlete.</p>
+    
+    <p>Welcome to my portfolio. You can find my projects in the Projects tab.
+
+    And follow me on <a href="https://strava.app.link/toA4o7K3KMb" target="_blank" class="stravalink">Strava!</a></p>
+    <a href="mailto:oihanegdcl@gmail.com">Send me an email →</a>
     </section>`;
 };

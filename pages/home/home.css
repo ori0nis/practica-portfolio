@@ -7,7 +7,11 @@
     align-items: flex-start;
     gap: 3rem;
   }
-  
+
+  .stravalink {
+    color: orange;
+  }
+
   @media (max-width: 700px) {
     .home {
       padding: 0 2rem;
