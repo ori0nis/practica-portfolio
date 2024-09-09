@@ -2,8 +2,7 @@ export const projects = [
     {
       title: "My first HTML project",
       description: "Isn't it cute?",
-      image:
-        "https://first-html-project-ori0nis.netlify.app/assets/image0_0.jpg",
+      image: "https://first-html-project-ori0nis.netlify.app/assets/image0_0.jpg",
       tech: ["HTML5"],
       github: "https://github.com/ori0nis/html5_arquitectura_informacion",
       link: "https://first-html-project-ori0nis.netlify.app/",
