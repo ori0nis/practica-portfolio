@@ -1,4 +1,4 @@
-import "./projectCard.css";
+import "./projectcard.css";
 
 export const projectCard = (project) => `
 <div class="project-card">
