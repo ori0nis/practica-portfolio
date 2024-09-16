@@ -10,7 +10,7 @@ export const projects = [
     {
       title: "My first DOM project",
       description: "I created an online cake store as my first DOM attempt",
-      image: "./public/icons/tastetherainbow.png",
+      image: "/icons/tastetherainbow.png",
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/ori0nis/practica_DOM",
       link: "https://tastetherainbow.netlify.app/",
@@ -18,7 +18,7 @@ export const projects = [
     {
       title: "freeCodeCamp repository",
       description: "Take a look at my freeCodeCamp progress",
-      image: "./public/icons/freecodecamp.png",
+      image: "./icons/freecodecamp.png",
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/ori0nis",
       link: "https://www.freecodecamp.org/ori0nis",
