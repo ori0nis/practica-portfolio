@@ -13,7 +13,7 @@ export const projects = [
       image: "/icons/tastetherainbow.png",
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/ori0nis/practica_DOM",
-      link: "https://tastetherainbow.netlify.app/",
+      link: "https://tastetherainbowdom.netlify.app/",
     },
     {
       title: "freeCodeCamp repository",
