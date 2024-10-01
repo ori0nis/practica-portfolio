@@ -25,7 +25,7 @@ export const projects = [
     },
     {
       title: "Basic Pinterest emulator",
-      description: "My first attempt at fetching data from an API and giving a webpage some simple functionalities",
+      description: "My first attempt at fetching data from the Unsplash API and giving a webpage some simple functionalities",
       image: "/icons/proyecto-asincrono.png",
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/ori0nis/proyecto-web-asincrono",
