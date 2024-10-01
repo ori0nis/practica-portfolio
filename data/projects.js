@@ -22,5 +22,13 @@ export const projects = [
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/ori0nis",
       link: "https://www.freecodecamp.org/ori0nis",
+    },
+    {
+      title: "Basic Pinterest emulator",
+      description: "My first attempt at fetching data from an API and giving a webpage some simple functionalities",
+      image: "/icons/proyecto-asincrono.png",
+      tech: ["HTML5", "CSS3", "JavaScript"],
+      github: "https://github.com/ori0nis/proyecto-web-asincrono",
+      link: "https://proyecto-web-asincrono.netlify.app/",
     }
   ];
