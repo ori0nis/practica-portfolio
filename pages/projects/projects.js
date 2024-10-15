@@ -15,7 +15,7 @@ export const renderProjects = () => {
     <div class="projects-container"></div>
     </section>`;
   
-    const container = document.querySelector(".projects-container");
+  const container = document.querySelector(".projects-container");
   
   for (const oneProject of projects) {
     const figure = document.createElement("figure");

@@ -30,5 +30,13 @@ export const projects = [
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/ori0nis/proyecto-web-asincrono",
       link: "https://proyecto-web-asincrono.netlify.app/",
+    },
+    {
+      title: "Interactive CV",
+      description: "I created a webpage to showcase my CV, through which I greatly improved my visual, responsive and dynamic content skills",
+      image: "/icons/kitty-easteregg.jpg",
+      tech: ["HTML5", "CSS3", "JavaScript"],
+      github: "https://github.com/ori0nis/proyecto-web-componentes",
+      link: "https://proyecto-web-componentes.netlify.app/",
     }
   ];
